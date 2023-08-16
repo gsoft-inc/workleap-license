@@ -1,3 +1,3 @@
-# gsoft-license
+# Workleap-license
 
-GSoft official open source license.
+Workleap official open source license.
